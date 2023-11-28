@@ -1,0 +1,9 @@
+{
+    "pg_data":
+    {
+        "user":             "postgres",
+        "ip_addr":          "10.10.10.10",
+        "database":         "database-name",
+        "password_pg":      "password"
+    }
+}
